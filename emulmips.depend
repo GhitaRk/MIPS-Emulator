@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1605015050 source:c:\users\hp\desktop\3a\cs351\projet mips\emulmips\main.c
+	"fonctions.h"
+
+1605014895 c:\users\hp\desktop\3a\cs351\projet mips\emulmips\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605015071 source:c:\users\hp\desktop\3a\cs351\projet mips\emulmips\fonctions.c
+	"fonctions.h"
+
